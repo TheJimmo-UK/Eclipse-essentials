@@ -7,4 +7,8 @@ public class Examples {
 
 	}
 
+	public void example ( ) {
+		String str = "Hello World!";
+		System.out.print(str);
+	}
 }
